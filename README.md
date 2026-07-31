@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/828e525a-a9d1-4204-b1f2-d77f14c7a192" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03e8ed6b-ce29-47c1-8db1-752bbc63b3fd" />
+
+
 
 # 🎵 Music Player
 
