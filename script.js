@@ -281,3 +281,4 @@ document.addEventListener("keydown", (e) => {
 
 next.addEventListener("click", nextSong);
 back.addEventListener("click", previousSong);
+
